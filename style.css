@@ -1,0 +1,22 @@
+body {
+    background-image: url("background.webp");
+    background-size: cover;  /* finally, something that works lol */
+}
+
+#container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    height: 80%;
+    width: 80%;
+}
+
+#icon {
+    /* to start from center */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
