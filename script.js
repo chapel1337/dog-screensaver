@@ -3,6 +3,7 @@
 // took 1 hour and 30 minutes to make because i was trying to make the damn dog picture not go out of view
 // turns out it's literally impossible to find actual height and width of the browser
 // this is why i hate js
+// (this was a good learning experience though)
 
 let dogIcon = document.getElementById("icon");
 
