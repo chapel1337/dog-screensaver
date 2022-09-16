@@ -1,6 +1,7 @@
 body {
     background-image: url("background.webp");
     background-size: cover;  /* finally, something that works lol */
+    background-attachment: fixed;
 }
 
 #container {
